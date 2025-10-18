@@ -1,7 +1,7 @@
 # CFP Exam Coverage Map
 
-**Last Updated**: October 17, 2025
-**Days Until Exam**: 20 days (November 6, 2025)
+**Last Updated**: October 18, 2025
+**Days Until Exam**: 19 days (November 6, 2025)
 
 This document maps your learning progress to the official CFP exam topic outline, showing which areas you've mastered, which have gaps, and which haven't been covered yet.
 
@@ -205,14 +205,26 @@ This document maps your learning progress to the official CFP exam topic outline
 ### 🟢 Mastered Topics (8/10)
 
 - [x] **F.45** Social Security and Medicare planning
-  - **Social Security filing timeline** (2025-10-13) - High confidence
-  - **Social Security earnings test** (2025-10-13, tested 2025-10-16) - High confidence
-  - **Social Security spousal benefits** (2025-10-13) - High confidence
-  - **Social Security taxation** (2025-10-13) - Medium-High confidence
-  - **Medicare Parts A/B/C/D** (2025-10-15) - Medium-High confidence
-  - **Medicare enrollment and penalties** (2025-10-15) - Medium-High confidence
-  - **Medicare cost-sharing** (2025-10-15, tested 2025-10-16) - Medium, improving
-  - ⚠️ **Minor gap**: SS early filing reduction % (thinks 5%, actually 6-7%)
+
+  **Social Security** - High confidence:
+  - Filing timeline (early/FRA/delayed) - mastered
+  - Earnings test (threshold, penalty calculation) - tested 2025-10-16, excellent
+  - Spousal benefits (requirements, timing) - mastered
+  - Taxation (combined income, thresholds) - Medium-High confidence
+  - ⚠️ **Minor gap**: Early filing reduction % (thinks 5%, actually 6-7%)
+
+  **Medicare** - High confidence (comprehensive deep dive 2025-10-18):
+  - **Part A Hospital**: Days 1-60 (deductible $1,632), 61-90 ($408/day), 91-150 (60 lifetime reserve) ✓
+  - **Part A SNF**: Days 1-20 (FREE), 21-100 ($204/day), requires 3-day hospital stay ✓
+  - **Part B**: Doctor visits, outpatient, premium $174.70/month + IRMAA ✓
+  - **Part C (Medicare Advantage)**: Private plans, lower cost, smaller network, has out-of-pocket max, extras (dental/vision) ✓
+  - **Part D**: Prescription drugs, $7-$200+/month ✓
+  - **MAPD**: Medicare Advantage + Part D combined ✓
+  - **Medicare Supplements (Medigap)**: Higher cost (~$200-$300/month), full network, covers copays/deductibles, NO out-of-pocket max ✓
+  - **MA vs Medigap tradeoffs**: Lower income→MA, higher income→Medigap, understands market dynamics ✓
+  - **Enrollment periods**: IEP (7 months at 65), AEP (Oct 15-Dec 7), OEP (Jan 1-Mar 31 for MA only), SEP (qualifying events) ✓
+  - **Agent commissions**: MA ~$600-700 first year, Medigap ~20% of premium, Traditional Medicare $0 ✓
+  - **Coverage limits**: Medicare ends at 150 days hospital, 100 days SNF - neither Original nor Medigap extends beyond ✓
 
 - [x] **F.47** Types of retirement plans
   - **Retirement plan types** (2025-10-13) - High confidence
@@ -368,19 +380,21 @@ This document maps your learning progress to the official CFP exam topic outline
    - Impact: Critical for Tax Planning domain (14% of exam)
    - Action: Dedicate fresh session ASAP
 
-### 🟡 Medium Severity → Low (Improving!)
-
-2. **F.45 Medicare Cost Calculations**
-   - Status: In Progress (Improving!)
-   - Recent test (2025-10-16): Successfully calculated 25 days × $408 = $10,200 ✓
-   - Action: Continue practice, memorize day ranges
-
 ### 🟢 Low Severity (Minor Refinement)
 
-3. **F.45 Social Security Early Filing Reduction %**
+2. **F.45 Social Security Early Filing Reduction %**
    - Status: Needs Minor Refinement
    - Issue: Thinks ~5% per year, actually ~6-7% per year
    - Action: Quick memorization fix
+
+### ✅ Recently Resolved
+
+3. **F.45 Medicare Cost Calculations and Comprehensive Understanding**
+   - Date Resolved: 2025-10-18
+   - Previous Status: Medium severity gap with day ranges and cost-sharing confusion
+   - Resolution: Comprehensive deep dive with online research
+   - Now mastered: Hospital stay (1-60, 61-90, 91-150 days), SNF (1-20 free, 21-100 copay), MA vs Medigap tradeoffs, enrollment periods, agent commissions, coverage limits
+   - Confidence: High ✓
 
 ---
 
