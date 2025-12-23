@@ -6,7 +6,7 @@ This is my personal study repository that helped me pass the Certified Financial
 
 **Thanks to AI and Claude Code**, I went from a failed attempt to **82% mastery** (60/73 topics) across 23 focused study sessions, ultimately passing the exam.
 
-**Let's connect on LinkedIn**: [linkedin.com/in/chenran818](https://linkedin.com/in/chenran818)
+**Let's connect on LinkedIn**: [linkedin.com/in/chenran818](https://linkedin.com/in/chenran818) and **Twitter(X)** [https://x.com/chenran818](https://x.com/chenran818)
 
 ---
 
